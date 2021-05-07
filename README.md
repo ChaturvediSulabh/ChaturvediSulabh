@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/osulabh" target="blank"><img src="https://img.shields.io/twitter/follow/osulabh?logo=twitter&style=for-the-badge" alt="osulabh" /></a> </p>
 
-- 🔭 I’m currently working on **Platform Tools Development and Migrating Data Micro-services (Distributed Apps and pipelines) with Kubernetes and Go**
+- 🔭 I’m currently working on 
+  - **Platform Tools Development to reduce toil and ease SRE operations with Kubernetes and Go** 
+  - **Manage Decoupled data pipelines build with Apache Spark**
+  - **Migrate Decoupled data pipelines with Apache Spark from legacy systems to Cloud (both private and public)**
 
 - 👯 I’m collaborating on [kubernetes project #sig-cli](https://kubectl.docs.kubernetes.io/)
 
